@@ -17,8 +17,10 @@
     "react-dom": "^0.14.7"
   },
   "devDependencies": {
-    "babel-cli": "^6.6.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-cli": "^6.26.0",
     "babel-plugin-react": "1.0.0",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.5.0",
     "chai": "^3.5.0",
     "mocha": "2.3.3",
